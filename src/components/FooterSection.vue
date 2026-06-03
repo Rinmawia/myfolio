@@ -117,15 +117,15 @@ onUnmounted(() => {
           </a>
 
           <div class="mt-10 flex flex-wrap items-center gap-x-6 gap-y-3">
-            <a href="#" class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-950">
+            <a href="https://www.linkedin.com/in/rinmawia-khiangte/" class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-950">
               LINKEDIN
             </a>
             <span class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-600">/</span>
-            <a href="#" class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-950">
+            <a href="https://www.instagram.com/rinmawia.me/" class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-950">
               INSTAGRAM
             </a>
             <span class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-600">/</span>
-            <a href="#" class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-950">
+            <a href="https://github.com/rinmawia" class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-950">
               GITHUB
             </a>
             <!-- <span class="font-sans text-[11px] md:text-xs tracking-widest uppercase text-neutral-600">/</span>

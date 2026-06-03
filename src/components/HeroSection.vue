@@ -21,10 +21,10 @@ const imageRefs = ref([])
 const isAnimationComplete = ref(false)
 const currentImage = ref(0)
 const images = [
-  '/public/images/slide_01.png',
-  '/public/images/slide_02.png',
-  '/public/images/slide_03.png',
-  '/public/images/slide_02.png',
+  '/images/slide_01.png',
+  '/images/slide_02.png',
+  '/images/slide_03.png',
+  '/images/slide_04.png',
 ]
 
 const orangeTextLabels = ['VISUAL', 'UI/UX', 'IDENTITY', 'COOL']
