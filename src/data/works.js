@@ -6,13 +6,13 @@ export const works = [
     year: '2026',
     roles: 'ART DIRECTION\nBRANDING\nUI/UX DESIGN\nDESIGN SYSTEM\nPRODUCT DESIGN',
     thumbnail:
-      '/images/01/Thumbnail.png',
+      '/images/01/img_01.png',
     overview:
       'A product and brand system exploring clarity, speed, and a bold visual language across digital touchpoints.',
     description:
-      'Led end-to-end full branding and UI/UX design for NESH, an integrated product and brand platform that unites two core user personas. I developed a cohesive brand identity from the ground up, built a scalable design system with developer-first documentation, and delivered a unified digital experience that balances bold visual language with seamless functionality.',
+      'Homeowners needed quick, trustworthy access to local blue-collar services; workers lacked a reliable platform to find paid jobs. \nI Led UX research, UI design, and full branding for NESH (commissioned by Mizoram Youth Commission via Lailen Consultancy). Built a trust-focused visual identity, low-friction mobile UX, and a developer-first design system.',
     media: [
-      { type: 'image', src: '/images/01/img_01.png', alt: 'Screenshot 01' },
+      { type: 'image', src: '/images/01/Thumbnail.png', alt: 'Screenshot 01' },
       { type: 'image', src: '/images/01/img_02.png', alt: 'Screenshot 02' },
       { type: 'image', src: '/images/01/img_03.png', alt: 'Screenshot 03' },
       { type: 'image', src: '/images/01/img_04.png', alt: 'Screenshot 04' },
@@ -29,15 +29,15 @@ export const works = [
     title: 'AMAZON RETAIL AU',
     year: '2025-2026',
     roles: 'AI DESIGN\nDESIGN SYSTEM\nART DIRECTION',
-    thumbnail: '/images/02/Thumbnail.png',
+    thumbnail: '/images/02/img_03.png',
     overview:
       'Retail experience explorations for AI-assisted shopping, spanning interaction patterns, visual system updates, and prototyped flows.',
     description:
-      'Implement ADA display format aimed at boosting purchases in the Books category among Prime Members, Non-Prime Members, and Non-Amazon Customers for Amazon Australia Retail.',
+      'Amazon Australia Retail needs to increase purchases in the Books category across three distinct audience segments - Prime Members, Non-Prime Members, and Non‑Amazon Customers. I Art Directed, Designed and implemented an ADA (Amazon Display Ad) display format tailored to each segment to boost Books conversions by aligning messaging, incentives, and UI affordances with user intent. ',
     media: [
       { type: 'image', src: '/images/02/img_01.png', alt: 'Screenshot 01' },
       { type: 'image', src: '/images/02/img_02.png', alt: 'Screenshot 02' },
-      { type: 'image', src: '/images/02/img_03.png', alt: 'Screenshot 03' },
+      { type: 'image', src: '/images/02/Thumbnail.png', alt: 'Screenshot 03' },
       { type: 'image', src: '/images/02/img_04.png', alt: 'Screenshot 04' }
     ]
   },
@@ -48,14 +48,13 @@ export const works = [
     year: '2025',
     roles: 'AI INNOVATION\nVISUAL DESIGN\nART DIRECTION',
     thumbnail:
-      '/images/03/Thumbnail.png',
+      '/images/03/img_01.png',
     overview:
       'An AI-driven concept exploring voice identity, generative visuals, and guided onboarding experiences.',
     description:
-      'Empowering nonverbal children to find their voice through groundbreaking AI speech technology. This human-centered platform translates each child’s unique vocalizations into personalized, authentic speech that preserves their individual personality, cultural heritage, and natural identity—ensuring no child has to compromise who they are to be heard.',
+      'Nonverbal children often lack tools that let them communicate in ways that feel authentic to their individual personality, culture, and identity. Existing augmentative and alternative communication solutions tend to use generic, synthetic voices that erase nuance, leading to a sense of loss of self and limited social acceptance. We crafted visual direction, UX, and product design. Collaborated with engineers, speech scientists, and families to translate research into human-centered interactions, visuals, and motion that supported empathetic, confidence-building communication. Work recognised with a Webby Award 2026.',
     media: [
       { type: 'youtube', youtubeId: 'yAd_WTcAoeQ' },
-      { type: 'image', src: '/images/03/img_01.png', alt: 'Screenshot 01' },
       { type: 'video', src: '/images/03/video_01.mp4', alt: 'Screenshot 01' },
       { type: 'image', src: '/images/03/img_02.png', alt: 'Screenshot 02' },
     ]
@@ -71,7 +70,7 @@ export const works = [
     overview:
       'Visual system work and asset direction for scalable templates and brand-forward content creation.',
     description:
-      'Led design and production of over 4,000 premium, scalable templates for Adobe Express, spanning logo creation, marketing assets, and social media content—tailored for global events, seasonal campaigns, and everyday brand occasions to empower creators of all skill levels.',
+      'Adobe Express aimed to expand its template library to better serve a global, diverse creator base. The challenge was to provide high-quality, scalable templates that feel timely and relevant across cultures, events, and skill levels. Led design and production, coordinating cross-functional teams to deliver a unified visual system and efficient production pipeline. Designed and produced 4,000+ premium, scalable templates across logos, marketing assets, and social media formats.',
     media: [
       { type: 'image', src: '/images/04/img_01.png', alt: 'Screenshot 01' },
       { type: 'image', src: '/images/04/img_02.png', alt: 'Screenshot 02' },
@@ -90,7 +89,7 @@ export const works = [
     overview:
       'A personal brand system including identity exploration, typography direction, and key layouts.',
     description:
-      'Creative direction, layout exploration, and Identity design for a local EDM Artist - Fel. Where we also explored the logo unit for his upcoming album "HERLUM".',
+      'Creative direction, layout exploration, and identity design for local EDM artist Fel, including development of a versatile logo unit and visual system for his upcoming album "HERLUM".',
     media: [
       { type: 'image', src: '/images/05/img_01.png', alt: 'Screenshot 01' },
       { type: 'image', src: '/images/05/img_02.png', alt: 'Screenshot 02' },
