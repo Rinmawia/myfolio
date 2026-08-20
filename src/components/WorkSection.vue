@@ -136,7 +136,7 @@ onUnmounted(() => {
         <div class="py-8 md:py-14">
           <RouterLink :to="`/work/${work.slug}`" class="block focus:outline-none">
             <div class="w-full overflow-hidden bg-transparent">
-              <div class="relative aspect-square lg:aspect-video w-full">
+              <div class="relative aspect-video w-full">
                 <img
                   :ref="(el) => (imageRefs[index] = el)"
                   :src="work.thumbnail"
