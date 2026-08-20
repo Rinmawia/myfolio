@@ -24,26 +24,8 @@ export const works = [
     ]
   },
   {
-    slug: 'amazon-retail-au',
-    number: '/02',
-    title: 'AMAZON RETAIL AU',
-    year: '2025-2026',
-    roles: 'AI DESIGN\nDESIGN SYSTEM\nART DIRECTION',
-    thumbnail: '/images/02/img_03.png',
-    overview:
-      'Retail experience explorations for AI-assisted shopping, spanning interaction patterns, visual system updates, and prototyped flows.',
-    description:
-      'Amazon Australia Retail needs to increase purchases in the Books category across three distinct audience segments - Prime Members, Non-Prime Members, and Non‑Amazon Customers. I Art Directed, Designed and implemented an ADA (Amazon Display Ad) display format tailored to each segment to boost Books conversions by aligning messaging, incentives, and UI affordances with user intent. ',
-    media: [
-      { type: 'image', src: '/images/02/img_01.png', alt: 'Screenshot 01' },
-      { type: 'image', src: '/images/02/img_02.png', alt: 'Screenshot 02' },
-      { type: 'image', src: '/images/02/Thumbnail.png', alt: 'Screenshot 03' },
-      { type: 'image', src: '/images/02/img_04.png', alt: 'Screenshot 04' }
-    ]
-  },
-  {
     slug: 'my-first-voice',
-    number: '/03',
+    number: '/02',
     title: 'MY FIRST VOICE',
     year: '2025',
     roles: 'AI INNOVATION\nVISUAL DESIGN\nART DIRECTION',
@@ -61,7 +43,7 @@ export const works = [
   },
   {
     slug: 'adobe-express',
-    number: '/04',
+    number: '/03',
     title: 'ADOBE EXPRESS',
     year: '2024',
     roles: 'ART DIRECTION\nVISUAL DESIGN\nASSET AT SCALE',
@@ -80,7 +62,7 @@ export const works = [
   },
   {
     slug: 'fela',
-    number: '/05',
+    number: '/04',
     title: 'FEL. HERLUM',
     year: '2026',
     roles: 'PERSONAL BRANDING\nVISUAL DESIGN\nART DIRECTION',
