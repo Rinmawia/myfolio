@@ -24,21 +24,23 @@ export const works = [
     ]
   },
   {
-    slug: 'amazon-retail-au',
+    slug: 'posters-vol-1',
     number: '/02',
-    title: 'AMAZON RETAIL AU',
+    title: 'Posters Vol. 1',
     year: '2025-2026',
     roles: 'AI DESIGN\nDESIGN SYSTEM\nART DIRECTION',
-    thumbnail: '/images/02/img_03.png',
+    thumbnail: '/images/02/Thumbnail.png',
     overview:
-      'Retail experience explorations for AI-assisted shopping, spanning interaction patterns, visual system updates, and prototyped flows.',
+      'A curated series of visual explorations translating iconic tracks from artists that shaped my creative lens into bold, print-first compositions.',
     description:
-      'Amazon Australia Retail needs to increase purchases in the Books category across three distinct audience segments - Prime Members, Non-Prime Members, and Non‑Amazon Customers. I Art Directed, Designed and implemented an ADA (Amazon Display Ad) display format tailored to each segment to boost Books conversions by aligning messaging, incentives, and UI affordances with user intent. ',
+      'A curated series of visual explorations translating iconic tracks from artists that shaped my creative lens into bold, print-first compositions.',
     media: [
       { type: 'image', src: '/images/02/img_01.png', alt: 'Screenshot 01' },
       { type: 'image', src: '/images/02/img_02.png', alt: 'Screenshot 02' },
-      { type: 'image', src: '/images/02/Thumbnail.png', alt: 'Screenshot 03' },
-      { type: 'image', src: '/images/02/img_04.png', alt: 'Screenshot 04' }
+      { type: 'image', src: '/images/02/img_03.png', alt: 'Screenshot 03' },
+      { type: 'image', src: '/images/02/img_04.png', alt: 'Screenshot 04' },
+      { type: 'image', src: '/images/02/img_05.png', alt: 'Screenshot 05' },
+      { type: 'image', src: '/images/02/img_06.png', alt: 'Screenshot 06' },
     ]
   },
   {
